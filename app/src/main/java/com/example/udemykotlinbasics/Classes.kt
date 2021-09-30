@@ -1,7 +1,3 @@
-
-
-
-
 fun main(){
     var person : Person= Person("Rameesha","Tariq")
 
