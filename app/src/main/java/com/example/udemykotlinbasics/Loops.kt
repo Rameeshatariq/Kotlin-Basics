@@ -58,7 +58,7 @@ fun main(){
     }
 
     // infix notation
- /*   for(i in 1 until 10) { // Same as - for(i in 1.until(10))
+   for(i in 1 until 10) { // Same as - for(i in 1.until(10))
         System.out.println("$i ")
     }
 
@@ -68,7 +68,7 @@ fun main(){
 
     for(i in 1 until 10 step 2) { // Same as - for(i in 1.until(10).step(2))
         System.out.println("$i ")
-    }*/
+    }
 
 
     for(i in 1..10000){
